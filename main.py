@@ -1,11 +1,11 @@
 # TODO 1: Create the screen                     # Done
 # TODO 2: Create and move the paddle            # Done
 # TODO 3: Create another paddle                 # Done
-# TODO 4: Create the ball and make it move
-# TODO 5: Detect collision with ball and bounce
-# TODO 6: Detect collision with paddle
-# TODO 7: Detect when paddle misses
-# TODO 8: Keep score
+# TODO 4: Create the ball and make it move      # Done
+# TODO 5: Detect collision with ball and bounce # Done
+# TODO 6: Detect collision with paddle          # Done
+# TODO 7: Detect when paddle misses             # Done
+# TODO 8: Keep score                            # Done
 
 from turtle import Screen
 from paddle import Paddle
